@@ -199,7 +199,6 @@ section[id] { scroll-margin-top: 2rem; }
 .section-intro { max-width: 45rem; margin: -.7rem 0 1.8rem; color: var(--muted); }
 
 .teaching-grid { grid-template-columns: minmax(0, 1.15fr) minmax(0, .85fr); align-items: start; }
-.teaching-notes { display: grid; gap: 1rem; }
 .teaching-photo img { width: 100%; aspect-ratio: 2.2; object-fit: cover; object-position: center 45%; }
 .article { background: #e6ebde; }
 
